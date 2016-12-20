@@ -15,7 +15,7 @@ The [data](https://github.com/letitbevi/SF/tree/master/data) folder contains 5 J
 ##### Brief summary of each JSON file
 
 | File Name        | Num of Documents  |  Num of sentences that mentioned `San Francisco` |
-| ------------- |:-------------:|-----|
+| ------------- |:-------------:|:-----:|
 | `2012_San Francisco_news.json` | 790 | 1164 |
 | `2013_San Francisco_news.json`  | 1008 | 1497 |
 | `2014_San Francisco_news.json`  | 1156 | 1787 |

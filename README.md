@@ -6,14 +6,6 @@ Visualize top 20 related news categories from 2012 to 2016
 
 The [data](https://github.com/letitbevi/SF/tree/master/data) folder contains 5 JSON files that I scraped from [The Guardian](https://www.theguardian.com/):
 
-- 2012_San Francisco_news.json
-- 2013_San Francisco_news.json
-- 2014_San Francisco_news.json
-- 2015_San Francisco_news.json
-- 2016_San Francisco_news.json (to 2016-12-20)
-
-##### Brief summary of each JSON file
-
 | File Name        | Num of Documents  |  Num of sentences that mentioned `San Francisco` |
 | ------------- |:-------------:|:-----:|
 | `2012_San Francisco_news.json` | 790 | 1164 |
@@ -22,6 +14,7 @@ The [data](https://github.com/letitbevi/SF/tree/master/data) folder contains 5 J
 | `2015_San Francisco_news.json` | 1303 | 2101 |
 | `2016_San Francisco_news.json`  | 1362 | 2508 |
 
+Note: Data in the file `2016_San Francisco_news.json` were collected from 2016-01-01 to 2016-12-20
 
 ## Trends related to SF from 2012 to 2016
 
